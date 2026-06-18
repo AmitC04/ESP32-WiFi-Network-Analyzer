@@ -1,5 +1,13 @@
 # ESP32 Wireless Network Monitoring and Analysis System
 
+<p align="center">
+    <img alt="Project" src="https://img.shields.io/badge/Project-Embedded%20Systems-blue" />
+    <img alt="Platform" src="https://img.shields.io/badge/Platform-ESP32-00979D" />
+    <img alt="UI" src="https://img.shields.io/badge/Interface-OLED%20%2B%20Desktop%20Dashboard-orange" />
+    <img alt="Scope" src="https://img.shields.io/badge/Focus-Wireless%20Monitoring%20%26%20Analysis-success" />
+    <img alt="Language" src="https://img.shields.io/badge/Firmware-Arduino%20C%2FC%2B%2B-red" />
+</p>
+
 Simple, low-cost ESP32 project for Wi-Fi monitoring, analysis, and controlled 2.4 GHz interference research.
 
 ## Key Highlights
@@ -8,12 +16,6 @@ Simple, low-cost ESP32 project for Wi-Fi monitoring, analysis, and controlled 2.
 - Can block/disrupt 2.4 GHz Wi-Fi activity in authorized, controlled test environments using the onboard ESP32 radio, without requiring a high-cost external antenna setup.
 - OLED + desktop dashboard workflow for live observation and analysis.
 - Built for embedded systems learning, demonstrations, and research validation.
-
-![Status](https://img.shields.io/badge/Project-Embedded%20Systems-blue)
-![Platform](https://img.shields.io/badge/Platform-ESP32-00979D)
-![UI](https://img.shields.io/badge/Interface-OLED%20%2B%20Desktop%20Dashboard-orange)
-![Scope](https://img.shields.io/badge/Focus-Wireless%20Monitoring%20%26%20Analysis-success)
-![Language](https://img.shields.io/badge/Firmware-Arduino%20C%2FC%2B%2B-red)
 
 ## Table of Contents
 

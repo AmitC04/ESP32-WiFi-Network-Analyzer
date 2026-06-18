@@ -30,7 +30,6 @@ Simple, low-cost ESP32 project for Wi-Fi monitoring, analysis, and controlled 2.
 - [Future Enhancements](#future-enhancements)
 - [References](#references)
 - [Author](#author)
-- [Image Placement Guide](#image-placement-guide)
 
 ## Overview
 

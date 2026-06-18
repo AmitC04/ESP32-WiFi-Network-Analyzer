@@ -103,9 +103,9 @@ The architecture is organized into four layers:
 
 ## Hardware Setup
 
-**Figure 2. Circuit Diagram Placeholder**
+![Figure 2: Circuit Diagram](images/circuit-diagram.png)
 
-*Add the exported circuit diagram as `images/circuit-diagram.png` and place it here once the wiring diagram is finalized.*
+*Figure 2. Circuit diagram of the ESP32 monitoring setup used in this project.*
 
 ![Figure 3: ESP32 Hardware Prototype](images/hardware-prototype.jpg)
 

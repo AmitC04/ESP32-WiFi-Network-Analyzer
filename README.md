@@ -1,8 +1,13 @@
 # ESP32 Wireless Network Monitoring and Analysis System
 
-![Hardware Prototype](images/hardware-prototype.jpg)
+Simple, low-cost ESP32 project for Wi-Fi monitoring, analysis, and controlled 2.4 GHz interference research.
 
-> An ESP32-based embedded platform for wireless network discovery, packet activity monitoring, OLED-based status visualization, and desktop signal analysis for educational and research use.
+## Key Highlights
+
+- Low-cost Wi-Fi experimentation platform built around the ESP32 Wi-Fi module.
+- Can block/disrupt 2.4 GHz Wi-Fi activity in authorized, controlled test environments using the onboard ESP32 radio, without requiring a high-cost external antenna setup.
+- OLED + desktop dashboard workflow for live observation and analysis.
+- Built for embedded systems learning, demonstrations, and research validation.
 
 ![Status](https://img.shields.io/badge/Project-Embedded%20Systems-blue)
 ![Platform](https://img.shields.io/badge/Platform-ESP32-00979D)
@@ -70,11 +75,16 @@ This structure is intentionally split into firmware, hardware documentation, das
 
 - **Wi-Fi scanning**: Detects nearby wireless networks and displays SSID, RSSI, and channel information.
 - **Packet monitoring**: Uses ESP32 promiscuous mode concepts to observe wireless frame activity and network behavior.
+- **2.4 GHz test capability**: Supports controlled interference/jamming simulation scenarios for lab research and defensive testing on authorized networks.
 - **OLED visualization**: Presents key status information on a 0.96-inch SSD1306 display.
 - **Dashboard analytics**: Visualizes signal patterns, packet activity, and statistical trends on a desktop dashboard.
 - **Real-time statistics**: Shows live updates that make the system useful for demonstrations and experimentation.
 - **Button-driven interaction**: Enables menu navigation and control using push buttons.
 - **Embedded systems integration**: Combines sensing, display output, user input, and analysis in one compact platform.
+
+## Legal and Ethical Note
+
+Use any interference or jamming-related features only in legal, controlled, and explicitly authorized test setups (for example, shielded labs or approved research environments). Do not use these features on public, third-party, or production networks.
 
 ## System Architecture
 

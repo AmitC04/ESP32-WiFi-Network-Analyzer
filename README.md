@@ -103,13 +103,13 @@ The architecture is organized into four layers:
 
 ## Hardware Setup
 
-**Figure 3. Circuit Diagram Placeholder**
+**Figure 2. Circuit Diagram Placeholder**
 
 *Add the exported circuit diagram as `images/circuit-diagram.png` and place it here once the wiring diagram is finalized.*
 
-![Figure 6: ESP32 Hardware Prototype](images/hardware-prototype.jpg)
+![Figure 3: ESP32 Hardware Prototype](images/hardware-prototype.jpg)
 
-*Figure 6. Physical hardware prototype assembled on a breadboard for the ESP32-based monitoring system.*
+*Figure 3. Physical hardware prototype assembled on a breadboard for the ESP32-based monitoring system.*
 
 ### OLED Wiring
 

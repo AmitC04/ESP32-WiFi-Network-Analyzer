@@ -230,7 +230,7 @@ The project demonstrates that a compact ESP32 system can be used to create a pra
 
 ## Author
 
-**Amit Chauhan**  
+**Amit Chauhan & Lakshita**  
 B.Tech Student  
 SRM Institute of Science and Technology
 
